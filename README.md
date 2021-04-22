@@ -1,5 +1,14 @@
-## My final project for COMM313 _Computational Text Analysis for Communication Research_ (Spring 21)
+## Vaccines, COVID & The Cure for Mistrust: Linguistic Analysis of Anti-vax on Social Media
 
-* You will edit this file to act as the main index page for your project 
+### Overview
+*This project, which was completed for the class COMM 313, in the University of Pennsylvania's Annenberg School of Communications, is aimed at identifying differences in the way the the Anti-Vaccination movement on Twitter has changed since the start of the COVID-19 pandemic in 2020.*
 
-* Change the title and write an overview of your project and description of the content.
+### Organization & Directories
+#### `data` Folder📉 
+* Stores a corpus of tweets, categorized temporally into separate json files.
+
+#### `data_analysis` Folder📈
+
+#### `final_data_story` Folder📖
+
+#### `presentation` Folder📊
