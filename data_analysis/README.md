@@ -1,6 +1,11 @@
 ## Data analysis notebooks for COMM313 Final Project
 
-* This folder should contain the a series of Jupyter notebooks you create to do the data analysis.
+### Files
 
-* Update this README file to document the notebooks and give a short description of what each one does.
+#### Testing & Logistics
+* `preliminary_data_retrieval.ipynb`
+  * Notebook containing code to get inital samples of data to see if these sorts of data were suited for addressing research questions.
 
+#### Main Project 
+* `main_corpus_data_retrieval.ipynb`
+  * Notebook to consolidate and organize full corpus for the project's main analysis.
