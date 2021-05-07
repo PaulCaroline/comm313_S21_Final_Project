@@ -36,6 +36,7 @@
  ┃ ┣ 📜preliminary_data_retrieval.ipynb  
  ┃ ┗ 📜README.md  
  ┣ 📂final_data_story  
+ ┃ ┣ 📂res  
  ┃ ┣ 📜final_blog_post.ipynb  
  ┃ ┗ 📜README.md  
  ┣ 📂presentation  
