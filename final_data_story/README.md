@@ -1,10 +1,8 @@
 ## Blog post of your data story for COMM313 Final Project
+### Organization & Directories
+* `final_blog_post/ipynb` contains the summary of all conclusion of this project, and is meant to be the end result of this study.
 
-* This folder should contain the files that contain the output of all your data analysis. 
-
-* You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks). 
-
-* Update this README file to describe the presentation.
+* the `res` folder contain supplemental materials that will be rendered and/or otherwise read into the final blog post notebook. 
 
 
 
