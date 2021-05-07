@@ -1,7 +1,15 @@
 ## Data analysis notebooks for COMM313 Final Project
 
-### Files
+### Corpus Retrieval
+*Data was obtained using the library `snscrape` to download sets of tweets based on queries of popular anti-vaccination hashtags.*
 
+### Analyses Types
+* N-Gram Frequency
+* Keyness Analysis
+* Concordance/ Keyword-in-Context (KWIC) Analysis
+* Sentiment Analysis
+
+### Files
 #### Testing & Logistics
 * `preliminary_data_retrieval.ipynb`
   * Notebook containing code to get inital samples of pilot data to see if these sorts of data were suited for addressing research questions.
