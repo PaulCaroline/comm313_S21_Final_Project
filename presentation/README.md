@@ -1,10 +1,2 @@
 ## Progress presentation for COMM313 Final Project
-
-* This folder should contain the files for your project progress presentation.
-
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. Share 1 or 2 interesting findings from your analysis so far.
-
-* Update this README file to describe the presentation.
+*This directory contains the slides that were utilized during a class presentation about the progress of this study, as well as the intial questions that arose. The pdf of these slides is entitled `Paul_Caroline_Presentation.pdf`*. The recording of the preseentation can be accessed [here](https://upenn.zoom.us/rec/play/M3syHBXVkjcqz492lHdCuKPuOQoEG2BqCJ9VfELwxYGFmoHG7AHvmRsu9YfE6K1NBEeucIrkXh6MVqZG.H0I4JHoUWBpT2z7L?startTime=1619503767000&_x_zm_rtaid=UKfVccOhStOMu-lKuzVKag.1620347229776.7a6b4fa0f3bda0299e85e50af75d5611&_x_zm_rhtaid=349).
